@@ -5,7 +5,7 @@ Tasks for Evolutionary Computing Course at ITMO University
 
 ## Index
 1. [First Task : Function Optimization](#first-task--function-optimization)
-2. [Second Task: Second Task: N-Queen Puzzle](#second-task:n-queen-puzzle)
+2. [Second Task: Second Task: N-Queen Puzzle](#second-task-n-queen-puzzle)
 ---
 
 ## [First Task : Function Optimization](https://github.com/Nemat-Allah-Aloush/Evolutionary_Computing/blob/main/ec_lab1_Aloush.ipynb)
